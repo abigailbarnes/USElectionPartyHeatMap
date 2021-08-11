@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Subregion
+comment1.params=region\ lat\ lon\ number
+comment1.target=Subregion(java.lang.String,\ double[],\ double[],\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=double[]\ getLatitude()
+comment4.params=
+comment4.target=double[]\ getLongitude()
+comment5.params=
+comment5.target=int\ getParty()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment7.params=region\ votingYear
+comment7.target=void\ visualize(java.lang.String,\ java.lang.String)
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EmptyMap
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=region
+comment2.target=void\ visualize(java.lang.String)
+numComments=3

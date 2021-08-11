@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NationalMap
+comment1.params=year
+comment1.target=NationalMap(int)
+comment2.params=
+comment2.target=void\ processGeographicData()
+numComments=3
